@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Annabel and I'm a Master's student studying Data Analytics and Computational Social Science at UMass Amherst. 
+
+I'm currently working on a project analyzing survey data from the Study on U.S. Parents’ Divisions of Labor During COVID-19 to gain insights about how pandemic-related closures affected domestic work and childcare in American families. I'm also collecting data from MBTA's API to understand trends in train alerts. 
+
+I'm currently learning R, Python, and SQL. 
+
 <!--
 **AMendum/AMendum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
